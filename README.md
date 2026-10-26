@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22JasminePullom%22%2C%22name%22%3A%22Jasmine%20Pullom%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22Peripheral%20Devices%22%2C%22Command%20Line%22%2C%22Storage%20Devices%22%2C%22BIOS%2FUEFI%22%2C%22TCP%2FIP%22%2C%22DNS%22%2C%22Routing%20%26%20Switching%22%2C%22Firewalls%22%5D%2C%22headlines%22%3A%5B%22Help%20Desk%20Specialist%22%2C%22Network%20Engineer%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Capture%20Day%204%20AI%20Tutor%20Prompt%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20Teachable%20Machine%20Learning%20Lab%20Link%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Capture%20Teachable%20Machine%20Learning%20Lab%20Link%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Jasmine%20Pullom%22%2C%22name%22%3A%22Jasmine%20Pullom%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FJasminePullom%2Fmycc-certificates%2Fblob%2Fmain%2FNet%2520I%2520Cert%25208.2026%2520135.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/JasminePullom.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/Jasmine Pullom.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
 # Hi there, I'm Jasmine Pullom
 
 **Jasmine Pullom**
 
-*Help Desk Specialist*
+*ITSA Student*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40JasminePullom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JasminePullom)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Jasmine Pullom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasmine Pullom)
 
 </div>
 
@@ -24,9 +24,15 @@
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-0969da?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-0969da?style=flat-square)
+*Select skills in the builder to display them here.*
 
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square)
+---
+
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Foundational Skills for IT Professionals |  | [Verify](https://github.com/JasminePullom/mycc-certificates/blob/main/Net%20I%20Cert%208.2026%20135.pdf) | — |
 
 ---
 
@@ -42,11 +48,7 @@
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Capture Day 4 AI Tutor Prompt | — | ✅ Complete | — |
-| Capture Teachable Machine Learning Lab Link | — | ✅ Complete | — |
-| Capture Teachable Machine Learning Lab Link | — | ✅ Complete | — |
+*No labs added yet.*
 
 </details>
 
